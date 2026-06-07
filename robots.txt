@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seomagicianph06-bot.github.io/md-home-detox-los-an-77998/sitemap.xml
